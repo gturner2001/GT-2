@@ -1,2 +1,2 @@
 # GT-2
-This is an example
+This is some new text.
